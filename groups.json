@@ -1,0 +1,124 @@
+{
+  "Time": "20250411",
+  "1": {
+    "Members": [
+      "谢智稳",
+      "匡文享",
+      "邓梦琪",
+      "肖世杰"
+    ],
+    "weight": 1.0,
+    "Selected": false,
+    "LastSelected": false
+  },
+  "2": {
+    "Members": [
+      "刘梓暄",
+      "王鸿毅",
+      "邓雅丽",
+      "李嘉倪"
+    ],
+    "weight": 1.0,
+    "Selected": false,
+    "LastSelected": false
+  },
+  "3": {
+    "Members": [
+      "张涵娇",
+      "李米",
+      "邓高誉",
+      "申谨萱"
+    ],
+    "weight": 1.0,
+    "Selected": true,
+    "LastSelected": false
+  },
+  "4": {
+    "Members": [
+      "赵鸿聪",
+      "李金洛",
+      "吕方熙",
+      "李勇慧"
+    ],
+    "weight": 1.0,
+    "Selected": false,
+    "LastSelected": false
+  },
+  "5": {
+    "Members": [
+      "尹香婧",
+      "叶俊宇",
+      "李熙峰",
+      "黄文俊"
+    ],
+    "weight": 1.0,
+    "Selected": false,
+    "LastSelected": false
+  },
+  "6": {
+    "Members": [
+      "李文睿",
+      "李文磊",
+      "李浩然",
+      "曾紫轩"
+    ],
+    "weight": 1.0,
+    "Selected": true,
+    "LastSelected": false
+  },
+  "7": {
+    "Members": [
+      "周丹",
+      "金子超",
+      "刘可欣",
+      "朱骐可"
+    ],
+    "weight": 1.0,
+    "Selected": true,
+    "LastSelected": false
+  },
+  "8": {
+    "Members": [
+      "龙鸿运",
+      "朱靓颖",
+      "罗思颖",
+      "李德祥"
+    ],
+    "weight": 1.0,
+    "Selected": false,
+    "LastSelected": false
+  },
+  "9": {
+    "Members": [
+      "李佳蕊",
+      "刘福源",
+      "李江林",
+      "潘棋圆"
+    ],
+    "weight": 1.0,
+    "Selected": false,
+    "LastSelected": false
+  },
+  "10": {
+    "Members": [
+      "周硕彦",
+      "刘佳欣",
+      "刘佳淼",
+      "禹浩"
+    ],
+    "weight": 1.0,
+    "Selected": false,
+    "LastSelected": false
+  },
+  "11": {
+    "Members": [
+      "宁振义",
+      "李姝祺",
+      "尹锦涵",
+      "黄瑞"
+    ],
+    "weight": 1.0,
+    "Selected": false,
+    "LastSelected": false
+  }
+}
